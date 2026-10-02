@@ -1,34 +1,17 @@
-# 👋 Oi! Eu sou a Lais
+# Lais
 
-Sou estudante de desenvolvimento web, focada principalmente em front-end, mas também interessada em aprender mais sobre o back-end. Gosto de descobrir como as coisas funcionam por trás das interfaces e estou sempre buscando evoluir como desenvolvedora.
+Desenvolvedora Full-Stack com foco em ecossistemas Java, PHP e Node.js, e formação técnica em Redes de Computadores. Cursando Análise e Desenvolvimento de Sistemas e atuando na área de tecnologia.
 
-## 🌱 Atualmente estou estudando:
+### Sobre
+- Atuo no desenvolvimento Full-Stack construindo APIs, regras de negócio e interfaces web modernas.
+- Domínio em Programação Orientada a Objetos (arquitetura, herança, polimorfismo, tratamento de exceções).
+- Bagagem técnica em Redes de Computadores, facilitando o entendimento de infraestrutura, comunicação HTTP/REST e arquitetura de sistemas.
 
-- 💻 **JavaScript**, **TypeScript**
-- ⚛️ **React**, **Next.js**
-- 🎨 **Tailwind CSS**
+### Tech Stack
+- **Backend:** Java, PHP (Laravel), Node.js, POO, APIs REST
+- **Frontend:** JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind CSS
+- **Infra & Ferramentas:** Redes de Computadores, Git, SQL
 
-Também tenho curiosidade sobre o funcionamento do back-end e pretendo explorar mais esse lado em breve.
-
-## 📌 Um pouco mais sobre mim
-
-- Estou sempre praticando com projetos próprios e desafios online
-- Às vezes compartilho o que estou aprendendo no [LinkedIn](https://www.linkedin.com/in/lais-ponte/) 😊
-- Acredito que aprender em comunidade é uma das melhores formas de crescer
-
-## 📫 Como me encontrar
-
-- 💼 [LinkedIn](https://linkedin.com/in/lais-ponte)
-- 📧 Email: laispontecoslima@gmail.com
-- 💻 Aqui no GitHub, acompanhando meus projetos!
-
-## ✨ Curiosidades
-
-- Pronomes: ela/dela
-- Gosto de criar interfaces limpas e acessíveis
-- ☕ Nescau e música me acompanham nos estudos
-- Meu primeiro site era cheio de cores e animações (e eu achava lindo 😄)
-
----
-
-Obrigada por visitar meu perfil! Se quiser trocar uma ideia ou colaborar, me chama!
+### Contato
+- E-mail: laispontecos@gmail.com
+- LinkedIn: (https://linkedin.com/in/lais-ponte)

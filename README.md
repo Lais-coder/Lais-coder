@@ -8,7 +8,7 @@ Desenvolvedora Full-Stack com foco em ecossistemas Java, PHP e Node.js, e forma�
 - Bagagem técnica em Redes de Computadores, facilitando o entendimento de infraestrutura, comunicação HTTP/REST e arquitetura de sistemas.
 
 ### Tech Stack
-- **Backend:** Java, PHP (Laravel), Node.js, POO, APIs REST
+- **Backend:** Node.js, POO, APIs REST Java, PHP (Laravel )
 - **Frontend:** JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind CSS
 - **Infra & Ferramentas:** Redes de Computadores, Git, SQL
 
